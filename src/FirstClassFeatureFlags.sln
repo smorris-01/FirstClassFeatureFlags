@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstClassFeatureFlags.UnitTests", "FirstClassFeatureFlags.UnitTests\FirstClassFeatureFlags.UnitTests.csproj", "{90F5C3CF-47B0-4968-A253-073E0AC4A958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstClassFeatureFlags", "FirstClassFeatureFlags\FirstClassFeatureFlags.csproj", "{68943A17-A640-4081-8B79-5474CC51B27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F5C3CF-47B0-4968-A253-073E0AC4A958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F5C3CF-47B0-4968-A253-073E0AC4A958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F5C3CF-47B0-4968-A253-073E0AC4A958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F5C3CF-47B0-4968-A253-073E0AC4A958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68943A17-A640-4081-8B79-5474CC51B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68943A17-A640-4081-8B79-5474CC51B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68943A17-A640-4081-8B79-5474CC51B27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68943A17-A640-4081-8B79-5474CC51B27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
