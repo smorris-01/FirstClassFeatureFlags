@@ -9,3 +9,6 @@ As presented at DDD Brisbane 2024.
 - Lazy Loaded Flags
   - with values that aren't available at IOC resolve time
   - deferred to IFeatureService at run time
+
+## TODO
+- include slides
